@@ -1,7 +1,7 @@
 # GCC 7.2 binary for Raspberry Pi #
 
 I've compiled *GCC 7.2.0* for Raspberry Pi, enabled languages C, C++ and Fortran. The compilers should work with all current versions of Pi.
-You can read more about how I compiled *GCC* at []() and you can repeat the process yourself if you wish to recreate the binary on your Pi.
+You can read more about how I compiled *GCC* at [https://solarianprogrammer.com/2017/12/07/raspberry-pi-raspbian-compiling-gcc/](https://solarianprogrammer.com/2017/12/07/raspberry-pi-raspbian-compiling-gcc/) and you can repeat the process yourself if you wish to recreate the binary on your Pi.
 
 How to use:
 ===========
