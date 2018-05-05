@@ -27,7 +27,8 @@ sudo mv gcc-8.1.0 /usr/local
 export PATH=/usr/local/gcc-8.1.0/bin:$PATH
 ```
 
-* Now, you should be able to use the compilers: *gcc-8.1.0* for C, *g++-8.1.0* for C++ and *gfortan-8.1.0 for Fortran*.
+* Now, you should be able to use the compilers: *gcc-8.1.0* for C and *g++-8.1.0* for C++.
+
 * If you want to permanently add the compilers to your path, append the *export* line to the end of your .bashrc file:
 ```
 #!console
